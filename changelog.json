@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "date": "2021-03-31T00:00:00",
+    "title": "Versión inicial",
+    "message": "Mensaje",
+    "categories": [],
+    "isMarkdownMessage": false
+  },
+  {
+    "id": 2,
+    "date": "2021-04-01T00:00:00",
+    "title": "Versión 2",
+    "message": "**Hay Eventos (carreras**)\n  - Fechas Límite",
+    "categories": ["test1", "test2"],
+    "isMarkdownMessage": true
+  }
+]
